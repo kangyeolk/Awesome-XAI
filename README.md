@@ -7,7 +7,7 @@
 ### 1-1. Gradient-based method
 Compute gradient of the score or intermediate neuron with respect to the input image.
 
-* Feature Visualization [\[link\]] (https://distill.pub/2017/feature-visualization/) <br/>
+* Feature Visualization [\[page\]](https://distill.pub/2017/feature-visualization/) <br/>
   *Olah et al. 2017*
 * Understanding Neural Networks Through Deep Visualization [\[paper\]](https://arxiv.org/abs/1506.06579) <br/>
   *Jason Yosinski et al., 2015*
@@ -21,7 +21,7 @@ Compute gradient of the score or intermediate neuron with respect to the input i
   *Matthew D Zeiler et al., 2013*
 
 ### 1-2. Feature maps: Visualization, Interpretation
-* Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space [\[paper\]](https://arxiv.org/abs/1612.00005)
+* Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space [\[paper\]](https://arxiv.org/abs/1612.00005) <br/>
   *Anh Nguyen et al., 2017*
 * Inverting Visual Representations with Convolutional Networks [\[paper\]](https://arxiv.org/abs/1506.02753) <br/>
   *Alexey Dosovitskiy et al., 2016*
@@ -61,7 +61,7 @@ Compute gradient of the score or intermediate neuron with respect to the input i
   *Zhiting Hu et al., 2016*
 
 ### 2-5. Discovering Bugs in Neural Networks
-* Examing CNN Representations with respect to Dataset Bias [\[paper\]] <br/>
+* Examing CNN Representations with respect to Dataset Bias [\[paper\]](https://arxiv.org/abs/1710.10577) <br/>
   *Quanshi Zhang et al., 2017*
 
 ## 3. Disentangling CNN representations into
